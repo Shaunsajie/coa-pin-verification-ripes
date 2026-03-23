@@ -78,7 +78,7 @@ Access Granted
 ![Ripes code](coa_code.png)
 ![Ripes code](coa_code1.png)
 ### 💻 Processor in Ripes
-![Processor View](coa_processor.png)
+![Processor View](coa_proccesor.png)
 ### ▶️ Output
 ![Output](coa_op.png)
 

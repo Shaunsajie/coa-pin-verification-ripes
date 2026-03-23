@@ -74,7 +74,13 @@ Access Granted
 ---
 
 ## 📸 Screenshots
-(Add screenshots of Ripes here)
+### 💻 Code in Ripes
+![Ripes code](coa_code.png)
+![Ripes code](coa_code1.png)
+### 💻 Processor in Ripes
+![Processor View](coa_processor.png)
+### ▶️ Output
+![Output](coa_op.png)
 
 ---
 

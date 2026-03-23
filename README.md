@@ -41,30 +41,7 @@ This project implements a **Password/PIN Verification System** using **RISC-V As
 ---
 
 ## 🔄 Flowchart
-Start
-↓
-Initialize attempts = 3
-↓
-Load correct PIN
-↓
-Read user PIN
-↓
-Compare PIN
-↓
-Is PIN correct?
-├── Yes → Access Granted → End
-└── No
-↓
-Display Access Denied
-↓
-attempts = attempts - 1
-↓
-attempts == 0 ?
-├── Yes → System Blocked → End
-└── No → Repeat
-
-
----
+![Ripes Flowchart](coa_flow _final.png)
 
 ## 💻 Sample Output
 Access Denied

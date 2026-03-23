@@ -41,11 +41,11 @@ This project implements a **Password/PIN Verification System** using **RISC-V As
 ---
 
 ## 🔄 Flowchart
-![Ripes Flowchart](coa_flow _final.png)
+![Ripes Flowchart](coa_4flow_final.png)
 
 ## 💻 Sample Output
-Access Denied
-Access Denied
+Access Denied,
+Access Denied,
 Access Granted
 
 ---
